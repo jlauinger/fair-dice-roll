@@ -28,7 +28,7 @@ to obtain a choice, completely free of any bias.
 
 ## License
 
-Copyright 2015 Johannes Lauinger
+Copyright 2015 Johannes Lauinger  
 Licensed under GNU GPL
 
 :kissing_heart:
